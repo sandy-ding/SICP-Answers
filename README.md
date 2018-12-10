@@ -1,2 +1,2 @@
-# SICP-exercisess
+# SICP-Exercises
 Structure and Interpretation of Computer Programs 
